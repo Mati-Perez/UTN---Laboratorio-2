@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1699137999 source:c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"clsFecha.h"
+	"prototipos.h"
+	"clsDeportes.h"
+	"clsArchivoDeportes.h"
+	"clsJugadores.h"
+	"clsArchivoJugadores.h"
+	"clsEquipos.h"
+	"clsArchivoEquipos.h"
+	"clsTipoDeDeporte.h"
+	"clsArchivoTipoDeDeportes.h"
+	"funcionesGlobales.h"
+	"reportes.h"
+	"subMenues.h"
+	"menuPrincipal.h"
+
+1698937490 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\clsfecha.h
+
+1699108500 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\prototipos.h
+
+1698972586 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\clsdeportes.h
+
+1698973042 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\clsarchivodeportes.h
+
+1699109430 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\clsjugadores.h
+
+1699109430 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\clsarchivojugadores.h
+
+1699040131 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\clsequipos.h
+
+1699039962 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\clsarchivoequipos.h
+
+1699041023 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\clstipodedeporte.h
+
+1699039962 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\clsarchivotipodedeportes.h
+
+1699499108 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\funcionesglobales.h
+
+1699536631 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\reportes.h
+
+1699532500 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\submenues.h
+
+1699109849 c:\users\matip\desktop\facultad\laboratorio\tp final 2.0\tp final\menuprincipal.h
+
